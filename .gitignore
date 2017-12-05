@@ -1,2 +1,4 @@
 bitwarden-go
 db
+.idea/
+*.iml
